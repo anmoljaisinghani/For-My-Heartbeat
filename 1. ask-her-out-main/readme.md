@@ -88,7 +88,7 @@ $~$
 
 ##  :outbox_tray: Set up
 - These are the steps required to install/run the project.
-- You can also directly proceed by using the live server [demo link](https://project1-formyheartbeat.netlify.app/)
+- You can also directly proceed by using the live server [demo link](https://formyheartbeat-project1.netlify.app/)
 
 
 1. Clone the Repository: Open a terminal or command prompt and clone the I-Love-You repository from GitHub using the following command:
